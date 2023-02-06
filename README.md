@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjb0123&label=Profile%20views&color=0e75b6&style=flat" alt="jjb0123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjb0123" alt="jjb0123" /></a> </p>
-
 - 🔭 I’m currently working on **the KTP App!**
 
 - 🌱 I’m currently learning **Machine Learning/Backend Dev**
