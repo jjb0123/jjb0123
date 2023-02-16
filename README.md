@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning/Backend Dev**
 
-- 👯 I’m looking to collaborate on **a neural network model to beat the bookies!**
+- 👯 I’m looking to collaborate on **any fun projects!**
 
 - 🤝 I’m looking for help with **Backend Development**
 
