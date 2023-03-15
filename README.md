@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjb0123&label=Profile%20views&color=0e75b6&style=flat" alt="jjb0123" /> </p>
 
-- 🔭 I’m currently working on **the KTP App!**
+- 🔭 I’m currently working on **my own app!**
 
 - 🌱 I’m currently learning **Machine Learning/Backend Dev**
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [www.joshbrice.com](www.joshbrice.com)
 
-- 💬 Ask me about **data structures, python, front-end dev, kappa theta pi**
+- 💬 Ask me about **data structures, python, front-end dev**
 
 - 📫 How to reach me **joshbrice2025@u.northwestern.edu**
 
-- 📄 Know about my experiences [www.joshbrice.com/resume.html](www.joshbrice.com/resume.html)
+- 📄 Know about my experiences [www.joshbrice.com/resume.html](www.joshbrice.com)
 
 - ⚡ Fun fact **I'm Australian!**
 
